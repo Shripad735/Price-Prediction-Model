@@ -5,7 +5,7 @@ This repository contains a Linear Regression model for predicting the sale price
 
 # Dataset
 
-The dataset used for training and testing the model is provided by Mercari [https://drive.google.com/drive/folders/1w_ow1aWpUdY60i6SxzRnl2NBWfkakp70?usp=drive_link]. It consists of the following files:
+The dataset used for training and testing the model is provided by [Mercari](https://drive.google.com/drive/folders/1w_ow1aWpUdY60i6SxzRnl2NBWfkakp70?usp=drive_link). It consists of the following files:
 
 train.tsv: Contains the training data with the following columns:
 train_id: Unique identifier for each training instance
