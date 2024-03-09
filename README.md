@@ -31,12 +31,15 @@ shipping<br>
 item_description<br>
 The target variable is the price column.<br>
 
-# Usage
-Clone the repository<br>
-Install the required dependencies<br>
-Run the train.py script to train the model<br>
-Run the predict.py script to make predictions on the test data<br>
-The predicted prices will be saved in a submission file following the format of sample_submission.csv.<br>
+## Usage
 
-# Contributing
-Contributions are welcome! Please feel free to submit pull requests or open issues for any improvements or bug fixes.<br>
+1. Clone the repository
+2. Install the required dependencies
+3. Run the `train.py` script to train the model
+4. Run the `predict.py` script to make predictions on the test data
+
+The predicted prices will be saved in a submission file following the format of `sample_submission.csv`.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit pull requests or open issues for any improvements or bug fixes.
